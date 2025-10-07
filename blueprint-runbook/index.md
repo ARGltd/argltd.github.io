@@ -2,7 +2,9 @@
 layout: default
 title: CRL Blueprint & Runbook
 ---
-<p align="center"><img src="/assets/img/logo.png" alt="ARGltd" width="80"></p>
+<p align="center">
+  <a href="https://crl-technologies.com/"><img src="/assets/img/logo.png" alt="CRL Technologies" width="88"></a>
+</p>
 
 # CRL Blueprint & Runbook
 
