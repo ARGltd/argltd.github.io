@@ -2,6 +2,7 @@
 layout: default
 title: CRL Blueprint & Runbook
 ---
+<p align="center"><img src="/assets/img/logo.png" alt="ARGltd" width="80"></p>
 
 # CRL Blueprint & Runbook
 
