@@ -1,6 +1,7 @@
-title: ARGltd
-description: Documentation hub
+title: CRL Technologies Docs
+description: Public documentation hub
 theme: jekyll-theme-cayman
+lang: en
 plugins:
   - jekyll-relative-links
 relative_links:

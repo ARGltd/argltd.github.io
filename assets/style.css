@@ -1,11 +1,9 @@
-:root { --fg:#0e0e0e; --muted:#6b7280; --ring:#e5e7eb; --bg:#fff; --card:#fafafa; }
-*{box-sizing:border-box} body{margin:0 auto;max-width:980px;padding:24px;font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif;color:var(--fg);background:var(--bg)}
+:root{--fg:#0e0e0e;--muted:#6b7280;--ring:#e5e7eb;--bg:#fff;--card:#fafafa}
+*{box-sizing:border-box}body{margin:0 auto;max-width:980px;padding:24px;font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Helvetica,Arial,sans-serif;color:var(--fg);background:var(--bg)}
 .header{display:flex;align-items:center;gap:16px;justify-content:center;margin:24px 0}
-.header img{height:64px}
-.header h1{margin:0;font-size:28px}
+.header img{height:64px}.header h1{margin:0;font-size:28px}
 .cards{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));margin-top:16px}
 .card{display:block;padding:16px;border:1px solid var(--ring);border-radius:14px;background:var(--card);text-decoration:none;color:inherit;transition:.2s box-shadow,.2s transform}
 .card:hover{box-shadow:0 8px 24px rgba(0,0,0,.08);transform:translateY(-1px)}
-.card h2{margin:0 0 6px 0;font-size:18px}
-.card p{margin:0;color:var(--muted)}
+.card h2{margin:0 0 6px 0;font-size:18px}.card p{margin:0;color:var(--muted)}
 .footer{margin:40px 0;color:var(--muted);font-size:14px;text-align:center}
