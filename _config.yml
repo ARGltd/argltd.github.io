@@ -1,2 +1,9 @@
-title: ARGltd Docs
-theme: jekyll-theme-minimal
+title: ARGltd
+description: Documentation hub
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+markdown: kramdown
