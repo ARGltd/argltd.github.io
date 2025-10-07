@@ -1,6 +1,6 @@
 title: CRL Technologies Docs
 description: Public documentation hub
-theme: jekyll-theme-cayman
+theme: null
 lang: en
 plugins:
   - jekyll-relative-links
