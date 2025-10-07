@@ -24,3 +24,16 @@ title: CRL Blueprint v1.1.0
 
 ## Appendix
 - [E2E Verification](./appendix/e2e-verifiche.md)
+
+## Downloads
+<p>
+  <a href="./pdf/CRL_Blueprint_v1.1.0.pdf">📄 Download: Combined PDF (all volumes)</a><br>
+  <a href="./pdf/CRL_Blueprint_v1.1.0_PDFs.zip">🗂️ Download: PDF bundle (all files)</a>
+</p>
+
+**Individual PDFs**
+- [Volume I — Executive](./pdf/CRL_Volume_I_Executive.pdf)
+- [Volume II — Technical Specifications](./pdf/CRL_Volume_II_Technical_Specs.pdf)
+- [Volume III — Compliance & Regulatory](./pdf/CRL_Volume_III_Compliance.pdf)
+- [Volume IV — Operational Excellence](./pdf/CRL_Volume_IV_Operational.pdf)
+- [Volume V — Integration & Delivery](./pdf/CRL_Volume_V_Integration.pdf)
